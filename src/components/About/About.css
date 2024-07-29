@@ -1,0 +1,25 @@
+
+.about-data{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.about-data svg{
+    width: 22px;
+    height: 22px;
+}
+
+.button--flex{
+    max-width: 230px;
+    align-items: center;
+    display: flex;
+    gap: 5px;
+}
+
+@media screen and (max-width:992px) {
+    .about-data{
+        grid-template-columns: 1fr;
+        row-gap: 2.5rem;
+    }
+}
