@@ -13,10 +13,10 @@ const Contact = () => {
             <h3 className="contact-card-title">Email</h3>
             <span className="contact-card-data">sulaj.vjolaa@gmail.com</span>
           </div>
-          <div className="contact-card">
+          {/* <div className="contact-card">
             <h3 className="contact-card-title">Phone Number</h3>
             <span className="contact-card-data">+355 69 35 20 788</span>
-          </div>
+          </div> */}
           <div className="contact-card">
             <h3 className="contact-card-title">Linkedin</h3>
             <span className="contact-card-data">Vjola Sulaj</span>
