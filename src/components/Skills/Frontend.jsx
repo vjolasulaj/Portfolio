@@ -35,7 +35,7 @@ export const Frontend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills-name">Bootstrap</h3>
-              <span className="skills-level">Advanced Basic</span>
+              <span className="skills-level">Advanced Basics</span>
             </div>
           </div>
 
