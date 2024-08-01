@@ -30,6 +30,13 @@ const Backend = () => {
               <span className="skills-level">Basic</span>
             </div>
           </div>
+          <div className="skills-data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills-name">Nest Js</h3>
+              <span className="skills-level">Basic</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
