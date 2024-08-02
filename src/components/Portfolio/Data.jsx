@@ -8,17 +8,20 @@ export const projectsData = [
     id: 1,
     image: project1,
     title: "Fitness Website",
+    href: "https://fitness-website-navy.vercel.app/",
   },
 
   {
     id: 2,
     image: project2,
     title: "Animal Website",
+    href: "https://facebook.com",
   },
   {
     id: 3,
     image: project3,
     title: "EngleWood Wine Merchants",
+    href: "https://shero-website.vercel.app/",
   },
   {
     id: 4,
