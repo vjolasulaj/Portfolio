@@ -6,7 +6,7 @@ const ProjectItems = ({ item }) => {
       <img src={item.image} alt="" className="project-img" />
       <h3 className="project-title">{item.title}</h3>
       <a href={item.href} className="project-button">
-        Github <i className="bx bx-right-arrow-alt project-button-icon"></i>
+        Demo <i className="bx bx-right-arrow-alt project-button-icon"></i>
       </a>
     </div>
   );
