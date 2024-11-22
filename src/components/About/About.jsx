@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Resume from "../../assets/images/Resume.pdf";
+import Resume from "../../assets/images/cv-copy.pdf";
 
 const About = () => {
   return (
@@ -18,7 +18,7 @@ const About = () => {
             intuitive designs. My goal is to deliver responsive, accessible, and
             performant websites that provide an exceptional user experience.
           </p>
-          {/* <a dowload="" href={Resume} className="button button--flex">
+          <a dowload="" href={Resume} className="button button--flex">
             Download Resume
             <svg
               class="button__icon"
@@ -43,7 +43,7 @@ const About = () => {
                 fill="#fff"
               ></path>
             </svg>
-          </a> */}
+          </a>
         </div>
       </div>
     </section>
