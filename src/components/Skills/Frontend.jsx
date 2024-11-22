@@ -31,13 +31,6 @@ export const Frontend = () => {
             </div>
           </div>
 
-          <div className="skills-data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills-name">Bootstrap</h3>
-              <span className="skills-level">Advanced Basics</span>
-            </div>
-          </div>
 
           <div className="skills-data">
             <i class="bx bx-badge-check"></i>
