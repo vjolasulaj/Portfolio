@@ -14,7 +14,7 @@ export const projectsData = [
   {
     id: 2,
     image: project2,
-    title: "Animal Website",
+    title: "Animal - Pet Website",
     href: "https://animal-catalog.vercel.app/",
   },
   {
