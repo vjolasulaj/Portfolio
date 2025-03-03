@@ -1,4 +1,4 @@
-
+import project3 from "../../assets/images/p3.jpg";
 import project2 from "../../assets/images/p2.jpg";
 import project1 from "../../assets/images/p1.jpg";
 import project4 from "../../assets/images/p4.png";
@@ -6,6 +6,7 @@ import project4 from "../../assets/images/p4.png";
 export const projectsData = [
   {
     id: 3,
+    image: project3,
     title: "EngleWood Wine Merchants",
     href: "https://shero-website.vercel.app/",
   },
